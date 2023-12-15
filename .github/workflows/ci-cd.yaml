@@ -3,7 +3,7 @@ name: Build and deploy Python app to Azure
 on:
   push:
     branches:
-      - main
+      - test
 
 jobs:
   build:
